@@ -1,1 +1,1 @@
-# GenStrore
+# GameStore
